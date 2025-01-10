@@ -7,7 +7,7 @@
 
 ## Data Structures implemented
 
-- WIP...
+- Arrays
 
 ## Algorithms implemented
 
