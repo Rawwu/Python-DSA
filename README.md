@@ -2,11 +2,10 @@
 **By Rawwu**
 
 ## Currently working on:
-- Linked Lists
-- Binary Search
+- Queues
+- Stacks
 
 ## Data Structures implemented
-
 - Arrays
 
 ## Algorithms implemented
