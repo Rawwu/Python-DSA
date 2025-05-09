@@ -3,10 +3,11 @@
 
 ## Currently working on:
 - Queues
-- Stacks
+- Single Linked List
 
 ## Data Structures implemented
 - Arrays
+- Lists
 
 ## Algorithms implemented
 
